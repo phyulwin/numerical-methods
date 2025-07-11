@@ -34,4 +34,3 @@ All projects were coded in C++ and focused on applying theoretical methods to ac
 ---
 
 > This course helped me bridge the gap between abstract math and real-world problem-solving using programming — a valuable skill for any technical career.
-[Course Official Catalog](https://catalog.cpp.edu/preview_course_nopop.php?catoid=53&coid=235126)
