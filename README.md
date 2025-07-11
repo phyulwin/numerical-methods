@@ -1,5 +1,4 @@
-# CS 3010 - Numerical Methods
-_Cal Poly Pomona, Spring 2025_
+Numerical Methods
 
 ## About the Course  
 This course focused on the mathematical foundations and computational methods for solving numerical problems commonly encountered in computer science. Topics included:
